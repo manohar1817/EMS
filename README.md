@@ -14,3 +14,23 @@ Reduce manual work in email handling.
 Provide secure login and role-based access.
 
 Enable users to efficiently manage communication within a system.
+
+myproject/
+│── myapp/
+│   ├── templates/
+│   │    └── index.html
+│   ├── static/
+│   │    ├── css/
+│   │    │    └── style.css
+│   │    ├── js/
+│   │    │    └── script.js
+│   │    └── images/
+│   ├── views.py
+│   └── urls.py
+│
+├── myproject/
+│   ├── settings.py
+│   └── urls.py
+│
+├── manage.py
+
